@@ -16,9 +16,9 @@ function pulaLinha(){
   document.write('<br>')
 }
 
-function mostraFrase(){
-  document.write(`Se passaram, aproximadamente, ${mediaGeracoes()} gerações`)
+function mostraFrase(frase){
+  document.write(frase)
   pulaLinha()
 }
 
-mostraFrase()
+mostraFrase(`Se passaram, aproximadamente, ${mediaGeracoes()} gerações`)
