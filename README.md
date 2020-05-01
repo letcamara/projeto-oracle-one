@@ -22,7 +22,7 @@ Esse repositório foi criado com o objetivo de organizar e centralizar todo meu 
 
 ## Questões Introdutórias:
 
-### 1. Lógica de programação I
+### Lógica de programação I
 
 1 - A idade do meu amigo
 
