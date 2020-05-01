@@ -28,7 +28,7 @@ Esse repositório foi criado com o objetivo de organizar e centralizar todo meu 
 
 Escreva um programa que exiba a mensagem "Nossa diferença de idade é", concatenando o resultado da subtração da sua idade com a do seu irmão (ou de um amigo). A resposta pode dar negativa, sem dúvida. Não esqueça de usar as funções pulaLinha e mostra e inclusive a tag <meta> para resolver problema de acentuação.
 
-[Solução](1)logica-programacao-1%20/logica-programacao1.js)
+[Solução](logica-programacao-1%20/logica-programacao1.js)
 
 
 
