@@ -13,12 +13,12 @@
 
 > * [Introdução](#introdução)
 > * [Questões Introdutórias](#questões-introdutórias)
->   * [1. Lógica de programação I:](#1-lógica-de-programação-I)
+>   * [Lógica de programação I:](#lógica-de-programação-I)
 
 
 ## Introdução
 
-Esse repositório foi criado com o objetivo de organizar e centralizar todo meu aprendizado que estou adquirindo - e programando - no momento neste curso.
+Esse repositório foi criado com o objetivo de organizar e centralizar todo meu aprendizado que estou adquirindo - e programando - neste curso.
 
 ## Questões Introdutórias:
 
@@ -26,10 +26,15 @@ Esse repositório foi criado com o objetivo de organizar e centralizar todo meu 
 
 1 - A idade do meu amigo
 
-Escreva um programa que exiba a mensagem "Nossa diferença de idade é", concatenando o resultado da subtração da sua idade com a do seu irmão (ou de um amigo). A resposta pode dar negativa, sem dúvida. Não esqueça de usar as funções pulaLinha e mostra e inclusive a tag <meta> para resolver problema de acentuação.
+Escreva um programa que exiba a mensagem "Nossa diferença de idade é", concatenando o resultado da subtração da sua idade com a do seu irmão (ou de um amigo). A resposta pode dar negativa, sem dúvida. 
 
 [Solução](logica-programacao-1%20/logica-programacao1.js)
 
+2 - O problema das gerações
+
+Em média, um casal tem filhos quando atinge a idade de 28 anos. Seguindo essa média, se os portugueses chegaram em 1500 no Brasil, então, a primeira geração de brasileiros surgiu em 1528, a segunda em 1556 e assim por diante. Desde 1500 até o ano atual, quantas gerações se passaram?
+
+[Solução](logica-programacao-1%20/logica-programacao2.js)
 
 
 Feito com ♥ por [let camara;](https://www.linkedin.com/in/letcamara)
