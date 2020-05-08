@@ -14,6 +14,7 @@
 > * [Introdução](#introdução)
 > * [Questões Introdutórias](#questões-introdutórias)
 >   * [Lógica de programação I:](#lógica-de-programação-I)
+>   * [Lógica de programação II:](#lógica-de-programação-II)
 
 
 ## Introdução
@@ -52,5 +53,12 @@ Em média, um casal tem filhos quando atinge a idade de 28 anos. Seguindo essa m
 
 [Solução](logica-programacao-1%20/logica-programacao6.html)
 
+### Lógica de programação II
+
+1 - A cara do Creeper
+
+Desenhando a cara de um personagem do jogo Minecraft
+
+[Solução](logica-programacao-2%20/logica-programacao1.html)
 
 Feito com ♥ por [let camara;](https://www.linkedin.com/in/letcamara)
