@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo do segredo</title>
+  </head>
+  <body>
+    <input type="text">
+    <button>Adivinhe o número</button>
+    <p></p>
+    <script>
+      const input = document.querySelector('input')
+      const button = document.querySelector('button')
+      const p = document.querySelector('p')
+      function sorteia(){
+        return Math.round(Math.random() * 10)
+      }
+      function verifica() {
+        let numberInput = parseInt(input.value)
+        let achou = false
+        for(let i = 0; i <= segredos.length; i++){
+          if(numberInput === segredos[i]){
+            p.innerHTML = 'Você acertou'
+            achou = true 
+            break
+          }
+        }
+        if(achou == false){
+          p.innerHTML = 'Você errou'
+        }
+        input.value = ''
+        input.focus()
+      }
+      function addQuant(quantidade){
+        let segredos = []
+        let num = 1
+        while(num <= quantidade){
+          let numAleatorio = sorteia()
+          let achou = false 
+          if(numAleatorio !== 0){
+            for(let i = 0; i < segredos.length; i++){
+              if(segredos[i] == numAleatorio){
+                achou = true
+                break;
+              }
+            }
+            if(achou == false){
+              segredos.push(numAleatorio)
+              num++
+            }
+
+          }
+        }
+        return segredos
+      }
+      let segredos = addQuant(3)
+      button.addEventListener('click', verifica)
+    </script>
+  </body>
+</html>

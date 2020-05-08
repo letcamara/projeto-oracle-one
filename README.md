@@ -44,5 +44,9 @@ Em média, um casal tem filhos quando atinge a idade de 28 anos. Seguindo essa m
 
 [Solução](logica-programacao-1%20/logica-programacao4.js)
 
+5 - Jogo de adivinhar o segredo (1 - 10)
+
+[Solução](logica-programacao-1%20/logica-programacao5.html)
+
 
 Feito com ♥ por [let camara;](https://www.linkedin.com/in/letcamara)
