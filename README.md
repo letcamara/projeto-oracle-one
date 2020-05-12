@@ -67,4 +67,10 @@ Já praticamos bastante com retângulos, agora é hora de desenhar uma outra fig
 
 [Solução](logica-programacao-2%20/logica-programacao2.html)
 
+**3 - Bandeira do Brasil**
+
+Que tal desenhar a nossa bandeira? Tirando as estrelas e o dizer "Ordem e Progresso", sabemos tudo para desenhar a bandeira do Brasil
+
+[Solução](logica-programacao-2%20/logica-programacao3.html)
+
 Feito com ♥ por [let camara;](https://www.linkedin.com/in/letcamara)
