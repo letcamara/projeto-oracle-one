@@ -73,4 +73,10 @@ Que tal desenhar a nossa bandeira? Tirando as estrelas e o dizer "Ordem e Progre
 
 [Solução](logica-programacao-2%20/logica-programacao3.html)
 
+**4 - Uma inofensiva flor...**
+
+Desenhando uma "flor"
+
+[Solução](logica-programacao-2%20/logica-programacao4.html)
+
 Feito com ♥ por [let camara;](https://www.linkedin.com/in/letcamara)
