@@ -79,4 +79,8 @@ Desenhando uma "flor"
 
 [Solução](logica-programacao-2%20/logica-programacao4.html)
 
+**5 - Qual é a fração?**
+
+[Solução](logica-programacao-2%20/logica-programacao5.html)
+
 Feito com ♥ por [let camara;](https://www.linkedin.com/in/letcamara)
