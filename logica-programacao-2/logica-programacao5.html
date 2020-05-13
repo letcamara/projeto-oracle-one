@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frações</title>
+</head>
+<body>
+  <canvas width="600" height="400"></canvas>
+</body>
+<script>
+const canvas = document.querySelector('canvas')
+const pincel = canvas.getContext('2d')
+
+let num = 3
+const tam = 50
+let total = tam * num
+
+function desenhaQuadrado(x, y, tam, cor) {
+    pincel.fillStyle = cor
+    pincel.fillRect(x, y, tam, tam)
+    pincel.fillStroke = 'black'
+    pincel.strokeRect(x, y, tam, tam)
+}
+
+for(let i = 0; i < total; i = i + tam) {
+  desenhaQuadrado(i, 0, tam, 'green')
+}
+
+pincel.strokeRect(total, 0, 50, 50)
+</script>
+</html>
